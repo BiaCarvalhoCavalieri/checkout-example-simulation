@@ -20,7 +20,7 @@
 - React Router DOM
 
 ## 🎨 Layout
- <img alt="checkout simulation example desktop" src="https://imgur.com/Mm0VNzo">
+  <img alt="checkout simulation example desktop" src="https://i.imgur.com/Mm0VNzo.png">
 
 ## 🔥 Instruções de uso
 
@@ -32,8 +32,7 @@
 
 4. Rode o comando `yarn start` para inicializar o servidor em desenvolvimento;
 
----
-## Ou Acesse o resultado pelo link
+## Acesse o resultado pelo link
 - Aguarde...
 
 ## 💥 Lançamentos futuros
