@@ -1,0 +1,33 @@
+.topbar__container{
+    background-color: var(--white-900);
+    height: 6rem;
+    padding: 0 1rem;
+}
+.topbar__content{
+    max-width: 71.5rem;
+    height: 100%;
+    margin: 0 auto;
+}
+.topbar__title {
+    font-weight: 600;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    color: var(--black-900);
+}
+.topbar__button {
+    border: 0.0938rem solid var(--blue-500);
+    padding: 0.75rem 0;
+    width: 13.5rem;
+    min-height: 3rem;
+    font-weight: 600;
+    font-size: 1rem;
+    height: 2.25rem;
+    background-color: transparent;
+    border-radius: 0.3125rem;
+    color: var(--blue-500);
+    transition: all 0.3s ease-in-out;
+}
+.topbar__button:hover{
+    background-color: var(--blue-500);
+    color: var(--white-900);
+}
