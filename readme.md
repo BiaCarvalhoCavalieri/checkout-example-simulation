@@ -33,7 +33,7 @@
 4. Rode o comando `yarn start` para inicializar o servidor em desenvolvimento;
 
 ## Acesse o resultado pelo link
-- [Checkout-Simulation](https://checkout-example-simulation.vercel.app/checkout)
+- [Checkout-Simulation](https://checkout-example-simulation.vercel.app)
 
 ## 💥 Lançamentos futuros
 
