@@ -38,5 +38,4 @@
 ## 💥 Lançamentos futuros
 
 - Responsividade para mobile
-- Link para acessar diretamente o repo
 
