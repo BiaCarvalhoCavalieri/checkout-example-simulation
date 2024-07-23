@@ -7,14 +7,14 @@ export interface useOrderForm {
 export interface OrderFormProviderProps {
     children: React.ReactNode;
 }
-export type InfoData= {
+export type InfoData = {
     orderForm: {
         id: string,
         items: ProductsList[],
     }
 }
 
-export type ProductsList =  {
+export type ProductsList = {
     id: number,
     image: string,
     name: string,
@@ -22,11 +22,11 @@ export type ProductsList =  {
     price: string,
     quantity: number,
     shipping: {
-      delivery: {
-        days: string,
-        value: string,
-      },
-      pickup: boolean,
-      selected: string,
+        delivery?: {
+            days: string,
+            value: string,
+        },
+        pickup: boolean,
+        selected: string,
     },
 }
